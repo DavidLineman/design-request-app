@@ -34,3 +34,9 @@ What I am trying to Accomplish:
 -Admin User can aknowledge design requests. Then edit the request woth an ETA. Once complete, the Admin can use mark the job complete--which them moves the design the the completed column. 
 
 -Try to create tests in Rspec. 
+
+
+TO DO: 
+
+-Finish Devise Setup 
+-Create Users for devise
