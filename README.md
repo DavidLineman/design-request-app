@@ -40,3 +40,4 @@ TO DO:
 
 -Finish Devise Setup 
 -Create Users for devise
+- Add Bootstrap X
