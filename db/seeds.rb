@@ -8,9 +8,7 @@
 
 require 'faker'
 
-Device.create!(manufacturer: "Apple",
-               model: "iPhone 11", 
-               description: "The newest iPhone.")
+
 
 
 10.times do |x|

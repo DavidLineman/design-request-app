@@ -3,6 +3,12 @@
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">New App, Get Fucked!</h1>
-    <%= render @devices %>
+    <% @devices.each do |device| %>
+      <div>
+        <h3 class="display-8"><%= device.manufacturer %></h3>
+        <h5 class="display-9"><%= device.model %></h5>
+        <i class="display-9"><%= device.description %></i>
+      </div>
+    <% end %>
   </div>
 </div>
