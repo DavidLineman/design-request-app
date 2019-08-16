@@ -45,5 +45,8 @@ TO DO:
 - Finish Devise Setup X
 - Create Users for devise X
 - Add Bootstrap X
--Set Up Form for new device requests
+- Set Up Form for new device requests
+- Link to Log in
+
+
 
